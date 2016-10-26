@@ -1,6 +1,6 @@
 #MailMigo PHP Client
 This is simple MailMigo PHP client to work with MailMigo API. The client uses CURL to send API requests.
-##Instalation
+##Installation
 Simply download the main file mailmigo_api.php in your project and include it to start working with it.
 ##Initialization
 ```php
